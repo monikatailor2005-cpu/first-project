@@ -1,4 +1,4 @@
 # first-project
 this is my frist repository
 </br>
-author name- monika tailot
+author name- monika tailor
